@@ -1,0 +1,591 @@
+body{
+    margin: 0;
+    padding-top: 210px;
+    font-family: 'PT Serif', serif !important;
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    background: #fff;
+    outline: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+p, strong, ul, ol, li{
+    color: #7a7a7a;
+}
+
+ul{
+    list-style-type: square;
+
+}
+
+.faq-question p {
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+header{
+    padding: 0 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #fff;
+}
+
+.navs{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navs a{
+    font-family: 'Montserrat', sans-serif !important;
+    text-transform: uppercase;
+    padding: 0 20px;
+    line-height: 60px;
+    color: #111;
+    font-size: 13px;
+    letter-spacing: 0.02em;
+    font-weight: bold;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    text-decoration: none;
+}
+
+.navs a:hover, .navs a:active, .navs a:focus{
+    opacity: 1;
+    color: #bfa67a !important;
+}
+
+.logo{
+    padding-right: 9.5vw;
+    padding-bottom: 3.5vh;
+}
+
+.logo img {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    height: 48px;
+}
+
+th, td{
+    font-family: 'PT Serif', serif !important;
+    color: rgb(122, 122, 122) !important;
+    font-size: 8pt;
+}
+
+.btnFiltrar, .btnFiltrarTRAGSATEC{
+    font-size: 10px !important;
+    background-color: #111111 !important;
+    color: #fff !important;
+    padding: 8px 22px !important;
+    margin-left: auto;
+    margin-left: 8px;
+
+}
+
+.btnFiltrar:hover, .btnFiltrarTRAGSATEC:hover{
+    color: #fff !important;
+    background-color: #bfa67a !important;
+    border-color: transparent !important;
+}
+
+
+.inputs1, .inputs2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .inputs1 input, .inputs2 input {
+    flex: 1;
+    margin: 0 8px;
+  }
+  
+  .inputs2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .inputs1 input:first-child, .inputs2 input:first-child {
+    margin-left: 0;
+  }
+  
+  .inputs1 input:last-child, .inputs2 input:last-child {
+    margin-right: 0;
+  }
+
+  .inputs label{
+    font-size:8px;
+    font-weight: normal;
+    color: #111;
+    font-family: 'Montserrat', sans-serif !important;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    vertical-align: middle;
+  }
+  
+  .menu1{
+    padding: 80px 150px 150px 300px;
+
+  }
+
+  .menu2,
+  .menu3,
+  .menu4,
+  .menu5,
+  .menu6,
+  .menu7,
+  .menu8,
+  .menu9,
+  .menu10{
+    padding: 150px 300px;
+
+  }
+
+  .bottom-line:after {
+    content: "";
+    display: block;
+    width: 48px;
+    border-bottom: 3px solid #e8e8e8;
+    margin: 15px auto 15px;
+}
+  
+
+h2{
+    font-family: 'Montserrat', sans-serif !important;
+    margin-top: 0;
+    text-transform: uppercase;
+    color: #111;
+    letter-spacing: 0.05em;
+    font-weight: 700 !important;
+    font-size: 24px !important;
+
+}
+  
+.body a, #section-0 > div > p:nth-child(3) > strong > a > strong {
+    text-decoration: none;
+    color: #bfa67a;
+    outline: none;
+    transition: color 0.2s ease-in-out;
+    background-color: transparent;
+}
+
+.body a:hover, footer a:hover{
+    color: #7a7a7a;
+}
+
+.accordion-button{
+    font-family: 'Montserrat', sans-serif !important;
+    margin-top: 0;
+    text-transform: uppercase;
+    color: #111;
+    letter-spacing: 0.05em;
+    font-weight: 700;
+}
+
+.accordion-button:hover{
+    color: #7a7a7a;
+}
+
+.accordion-button::after{
+    content: none !important;
+}
+
+.accordion-collapse{
+    border: 1px solid #ddd;
+}
+
+footer a, footer span {
+    color: #909090;
+    margin-top: 70px;
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif !important;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    text-decoration: none;
+    outline: none;
+}
+
+
+#modalCandidato .modal-title, #modalForgotPassword .modal-title{
+    font-family: 'Montserrat', sans-serif !important;
+    margin-top: 0;
+    text-transform: uppercase;
+    color: #111;
+    letter-spacing: 0.05em;
+    font-weight: 700;   
+}
+
+#modalCandidato input:focus, #modalForgotPassword input:focus, input:focus{
+    border-color: #bfa67a !important;
+    box-shadow: none !important;
+}
+
+.btn-close{
+    font-size: 8px !important;
+    float: right !important;
+    font-weight: bold !important;
+    line-height: 1 !important;
+    color: #000 !important;
+}
+
+.btnEntrar{
+    transition: all 0.2s ease-in-out;
+    color: #fff;
+    background-color: #111;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+
+.btnEntrar:hover{
+    background-color: #bfa67a !important;
+}
+
+.forgotPass a{
+    color: #7a7a7a;
+    text-decoration: none;
+    font-size: 85%;
+}
+
+.help-block{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #737373;
+    font-size: 15px;
+}
+
+.modal-dialog{
+    max-width: 600px !important;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif !important;
+    margin-top: 0 !important;
+    text-transform: uppercase !important;
+    color: #111 !important;
+    letter-spacing: 0.05em !important;
+    font-weight: 700 !important;
+}
+
+::selection {
+    background-color: black;
+    color: white;
+}
+
+::-moz-selection {
+    background-color: black; 
+    color: white;
+}
+
+.header svg:focus{
+    fill: #bfa67a !important;
+}
+
+@media (max-width: 990px) {
+
+    .header header {
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+    }
+    .navs {
+        display: none;
+    }
+
+.chevron {
+    position: fixed;
+    right: 10px;    
+    bottom: 10px;   
+    z-index: 1000;  
+}
+
+.chevron-circle {
+    display: none;
+    cursor: pointer;
+}
+
+.chevron-circle .circle-fill{
+    fill: black !important;
+}
+
+.chevron-circle .chevron-path{
+    fill: white !important;
+}
+
+
+    
+
+    #section-0,
+    #section-1,
+    #section-2,
+    #section-3,
+    #section-4,
+    #section-5,
+    #section-6,
+    #section-7,
+    #section-8,
+    #section-9{
+        width: 768px;
+    }
+
+    .header header svg.bi.bi-list {
+        display: flex !important;
+        cursor: pointer;
+    }
+    #offcanvasTop{
+        border: none;
+        opacity: 0.75;
+
+    }
+    .offcanvas-body {
+        max-height: 300px;
+    }
+
+    .offcanvas-body a{
+        font-family: 'Montserrat', sans-serif !important;
+        text-transform: uppercase;
+        padding: 0 20px;
+        line-height: 60px;
+        color: #111;
+        font-size: 13px;
+        letter-spacing: 0.02em;
+        font-weight: bold;
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        text-decoration: none;
+    }
+    
+    .offcanvas-body a:hover, .offcanvas-body a:active, .offcanvas-body a:focus{
+        opacity: 1;
+        color: #bfa67a !important;
+    }
+
+    .menu1{
+        padding: 80px 15px 150px 15px;
+    
+      }
+    
+      .menu2,
+      .menu3,
+      .menu4,
+      .menu5,
+      .menu6,
+      .menu7,
+      .menu8,
+      .menu9,
+      .menu10{
+        padding: 150px 15px;
+    
+      }
+
+      .accordion-body{
+        overflow-x: auto;
+        max-width: 1000px;
+      }
+
+      .logo {
+        padding-right: 9.5vw;
+        padding-bottom: 3.5vh;
+        padding-top: 25px;
+    }
+}
+
+@media (max-width: 767px) {
+    .offcanvas-top {
+        width: 100%;
+    }
+
+    #section-0,
+    #section-1,
+    #section-2,
+    #section-3,
+    #section-4,
+    #section-5,
+    #section-6,
+    #section-7,
+    #section-8,
+    #section-9{
+        width: 768px;
+    }
+
+.chevron {
+    position: fixed;
+    right: 10px;    
+    bottom: 10px;   
+    z-index: 1000;  
+}
+
+.chevron-circle {
+    display: none;
+    cursor: pointer;
+}
+
+.chevron-circle .circle-fill{
+    fill: black !important;
+}
+
+.chevron-circle .chevron-path{
+    fill: white !important;
+}
+
+
+
+    .offcanvas-body {
+        padding: 15px;
+    }
+
+    .navs a {
+        padding: 10px;
+        display: block;
+    }
+}
+
+@media (max-width: 640px) {
+    .offcanvas-top {
+        width: 100%;
+    }
+
+    #section-0,
+    #section-1,
+    #section-2,
+    #section-3,
+    #section-4,
+    #section-5,
+    #section-6,
+    #section-7,
+    #section-8,
+    #section-9{
+        width: 550px;
+    }
+
+.chevron {
+    position: fixed;
+    right: 10px;    
+    bottom: 10px;   
+    z-index: 1000;  
+}
+
+.chevron-circle {
+    display: none;
+    cursor: pointer;
+}
+
+.chevron-circle .circle-fill{
+    fill: black !important;
+}
+
+.chevron-circle .chevron-path{
+    fill: white !important;
+}
+
+
+
+    .offcanvas-body {
+        padding: 10px;
+    }
+
+    .navs a {
+        padding: 8px;
+        display: block;
+    }
+
+    body {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .offcanvas-top {
+        width: 100%;
+    }
+
+    .offcanvas-body {
+        padding: 10px;
+    }
+
+.chevron {
+    position: fixed;
+    right: 10px;    
+    bottom: 10px;   
+    z-index: 1000;  
+}
+
+.chevron-circle {
+    display: none;
+    cursor: pointer;
+}
+
+.chevron-circle .circle-fill{
+    fill: black !important;
+}
+
+.chevron-circle .chevron-path{
+    fill: white !important;
+}
+
+
+
+
+    .navs a {
+        padding: 8px;
+        display: block;
+        margin: 5px 0;
+        font-size: 16px;
+    }
+
+    body {
+        font-size: 14px;
+        padding-top: 100px;
+    }
+
+    .logo img {
+        max-width: 100px;
+        height: auto;
+    }
+        #section-0,
+        #section-1,
+        #section-2,
+        #section-3,
+        #section-4,
+        #section-5,
+        #section-6,
+        #section-7,
+        #section-8,
+        #section-9{
+            width: 768px;
+        }
+}
+
+
+
+
+.offcanvas-top.show {
+    transform: translateY(100%);
+}
+
+section .body.offcanvas-active {
+    transform: translateY(calc(100% - 56px));
+}
+
+.offcanvas-header {
+    width: 100%;
+}
