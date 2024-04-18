@@ -1,3 +1,5 @@
+
+
 body{
     margin: 0;
     padding-top: 210px;
@@ -9,15 +11,17 @@ body{
     outline: 0;
     overflow-x: hidden;
     overflow-y: auto;
-}
-
-p, strong, ul, ol, li{
+    padding: 0;
     color: #7a7a7a;
 }
 
 ul{
     list-style-type: square;
 
+}
+
+p, li, i{
+    overflow-wrap: break-word !important;
 }
 
 .faq-question p {
@@ -27,11 +31,7 @@ ul{
 }
 
 header{
-    padding: 0 50px;
-    position: fixed;
-    top: 0;
     width: 100%;
-    z-index: 1000;
     background-color: #fff;
 }
 
@@ -311,9 +311,9 @@ h4{
 
 .chevron {
     position: fixed;
-    right: 10px;    
-    bottom: 10px;   
-    z-index: 1000;  
+    right: 10px;
+    bottom: 10px; 
+    z-index: 1000; 
 }
 
 .chevron-circle {
@@ -430,9 +430,9 @@ h4{
 
 .chevron {
     position: fixed;
-    right: 10px;    
-    bottom: 10px;   
-    z-index: 1000;  
+    right: 10px;
+    bottom: 10px; 
+    z-index: 1000; 
 }
 
 .chevron-circle {
@@ -459,11 +459,7 @@ h4{
         display: block;
     }
     header{
-        padding: 0 50px;
-        position: fixed;
-        top: 0;
         width: 100%;
-        z-index: 1000;
         background-color: #fff;
     }
 }
@@ -488,9 +484,9 @@ h4{
 
 .chevron {
     position: fixed;
-    right: 10px;    
-    bottom: 10px;   
-    z-index: 1000;  
+    right: 10px;
+    bottom: 10px; 
+    z-index: 1000; 
 }
 
 .chevron-circle {
@@ -521,11 +517,7 @@ h4{
         font-size: 14px;
     }
     header{
-        padding: 0 50px;
-        position: fixed;
-        top: 0;
         width: 100%;
-        z-index: 1000;
         background-color: #fff;
     }
 }
@@ -540,10 +532,9 @@ h4{
     }
 
 .chevron {
-    position: fixed;
-    right: 10px;    
-    bottom: 10px;   
-    z-index: 1000;  
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;  
 }
 
 .chevron-circle {
@@ -587,11 +578,7 @@ h4{
             width: 100%;
         }
         header{
-            padding: 0 50px;
-            position: fixed;
-            top: 0;
             width: 100%;
-            z-index: 1000;
             background-color: #fff;
         }
 }
