@@ -297,6 +297,13 @@ h4{
     fill: #bfa67a !important;
 }
 
+.chevron {
+    position: fixed;
+    right: 10px;
+    bottom: 10px; 
+    z-index: 1000; 
+}
+
 @media (max-width: 990px) {
 
     .header header {
