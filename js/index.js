@@ -38,144 +38,12 @@ function carga() {
         },
         {
             PUESTO: "ADMINISTRATIVO",
-            BLOQUE: 4,
-            REFERENCIA: "TAE TRAGSA-1576",
-            CATEGORIA: "ADMINISTRATIVO",
-            UT: "UT4",
-            GERENCIA: "MADRID",
-            UBICACION: "LEGANÉS",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "ADMINISTRATIVO",
-            BLOQUE: 5,
-            REFERENCIA: "TAE TRAGSA-1577",
-            CATEGORIA: "ADMINISTRATIVO",
-            UT: "UT4",
-            GERENCIA: "MADRID",
-            UBICACION: "MADRID",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "ADMINISTRATIVO",
-            BLOQUE: 6,
-            REFERENCIA: "TAE TRAGSA-1762",
-            CATEGORIA: "ADMINISTRATIVO",
-            UT: "UT5",
-            GERENCIA: "BADAJOZ",
-            UBICACION: "BADAJOZ",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "ADMINISTRATIVO",
-            BLOQUE: 7,
-            REFERENCIA: "TAE TRAGSA-1872",
-            CATEGORIA: "ADMINISTRATIVO",
-            UT: "UT5",
-            GERENCIA: "MALAGA",
-            UBICACION: "MELILLA",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "ADMINISTRATIVO DE PERSONAS UT",
-            BLOQUE: 8,
-            REFERENCIA: "TAE TRAGSA-1422",
-            CATEGORIA: "ADMINISTRATIVO",
-            UT: "UT4",
-            GERENCIA: "CABECERA DE CANARIAS",
-            UBICACION: "TENERIFE",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "ADMINISTRATIVO DE PERSONAS UT",
-            BLOQUE: 9,
-            REFERENCIA: "TAE TRAGSA-1560",
-            CATEGORIA: "ADMINISTRATIVO ESPECIALISTA",
-            UT: "UT4",
-            GERENCIA: "CABECERA DE USH 54",
-            UBICACION: "LEGANÉS",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "ALMACENERO",
-            BLOQUE: 10,
-            REFERENCIA: "TAE TRAGSA-380",
-            CATEGORIA: "ALMACENERO",
-            UT: "UT2",
-            GERENCIA: "CASTELLÓN",
-            UBICACION: "CASTELLÓN",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "ANALISTA LABORATORIO",
-            BLOQUE: 11,
-            REFERENCIA: "TRE TRAGSA-403; TRE TRAGSA-404",
-            CATEGORIA: "ANALISTA LABORATORIO",
-            UT: "UT3",
-            GERENCIA: "VALLADOLID",
-            UBICACION: "VALLADOLID",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "AUXILIAR DE LABORATORIO",
-            BLOQUE: 12,
-            REFERENCIA: "TAE TRAGSA-482",
-            CATEGORIA: "ANALISTA LABORATORIO",
-            UT: "UT2",
-            GERENCIA: "VALENCIA",
-            UBICACION: "CAUDETE DE LAS FUENTES",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "AYUDANTE TECNICO LABORATORIO",
-            BLOQUE: 13,
-            REFERENCIA: "TAE TRAGSA-200",
-            CATEGORIA: "ANALISTA LABORATORIO",
+            BLOQUE: 47,
+            REFERENCIA: "TAE TRAGSA-149; TAE TRAGSA-150; TAE TRAGSA-151; TAE TRAGSA-152; TAE TRAGSA-153; TAE TRAGSA-154; TAE TRAGSA-155; TAE TRAGSA-156; TAE TRAGSA-157; TAE TRAGSA-158; TAE TRAGSA-159; TAE TRAGSA-160; TAE TRAGSA-161; TAE TRAGSA-162; TAE TRAGSA-163; TAE TRAGSA-164",
+            CATEGORIA: "GUIA",
             UT: "UT1",
-            GERENCIA: "CANTABRIA",
-            UBICACION: "MURIEDAS",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "AYUDANTE TECNICO LABORATORIO",
-            BLOQUE: 14,
-            REFERENCIA: "TAE TRAGSA-199",
-            CATEGORIA: "ANALISTA LABORATORIO",
-            UT: "UT1",
-            GERENCIA: "CANTABRIA",
-            UBICACION: "MURIEDAS",
-            ANEXOESP: "assets/img/pdf-icon.svg",
-            DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
-        },
-        {
-            PUESTO: "AYUDANTE TECNICO LABORATORIO",
-            BLOQUE: 15,
-            REFERENCIA: "TRE TRAGSA-425",
-            CATEGORIA: "ANALISTA LABORATORIO",
-            UT: "UT3",
-            GERENCIA: "SALAMANCA",
-            UBICACION: "ALDEARRUBIA",
+            GERENCIA: "ASTURIAS",
+            UBICACION: "ASTURIAS",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
             DRADRF: "assets/img/pdf-icon.svg"
@@ -442,11 +310,11 @@ function rellenarTablaTRAGSA(filas) {
                 
                 
                 if (key === 'ANEXOESP') {
-                    href = 'https://grupotragsa.people-experts.com/files/docs/anexos/1/ANEXO%20ESPECIFICO%20TRAGSA%20%20-%20Bloque%20136.pdf';
+                    href = `assets/pdf/ANEXO ESPECIFICO TRAGSA  - Bloque ${fila.BLOQUE}.pdf`;
                 } else if (key === 'DRE') {
-                    href = 'https://grupotragsa.people-experts.com/files/docs/dre/1/DRE%20-%20TRAGSA%20%20-%20Bloque%201.xlsx';
+                    href = `assets/xlsx/DRE - TRAGSA  - Bloque ${fila.BLOQUE}.xlsx`;
                 } else if (key === 'DRADRF') {
-                    href = 'https://grupotragsa.people-experts.com/files/docs/draydrf/1/DRA%20y%20DRF%20-%20DECLARACI%C3%93N%20RESPONSABLE%20A%20EFECTOS%20DE%20ADMISI%C3%93N%20AL%20PROCESO%20SELECTIVO%20Y%20DECLARACI%C3%93N%20RESPONSABLE%20DE%20LA%20FORMACI%C3%93N%20A%20EFECTOS%20DE%20VALORACI%C3%93N%20DE%20M%C3%89RITOS.xlsx';
+                    href = 'assets/xlsx/DRF_DRA.xlsx';
                 }
 
                 if (href) {
