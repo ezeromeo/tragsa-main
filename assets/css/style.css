@@ -135,11 +135,7 @@ th, td{
     vertical-align: middle;
   }
   
-  .menu1{
-    padding: 80px 150px 150px 300px;
-
-  }
-
+  .menu1,
   .menu2,
   .menu3,
   .menu4,
@@ -387,11 +383,8 @@ h4{
         color: #bfa67a !important;
     }
 
-    .menu1{
-        padding: 80px 15px 150px 15px;
-    
-      }
-    
+
+      .menu1,    
       .menu2,
       .menu3,
       .menu4,
