@@ -10,7 +10,8 @@ function carga() {
             UBICACION: "CASTELLÓN",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -22,7 +23,8 @@ function carga() {
             UBICACION: "TORLA-ORDESA",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -34,7 +36,8 @@ function carga() {
             UBICACION: "MURCIA",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -46,7 +49,8 @@ function carga() {
             UBICACION: "ASTURIAS",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         }
     ];
 
@@ -238,8 +242,8 @@ function carga() {
     rellenarTablaTRAGSATEC(filas_tragsatec);
     initSmoothScrollAndAnimation();
     scrollToTopOnLogoClick();
-    setupModalForCandidatoArea();
-    setupForgotPasswordModal();
+    // setupModalForCandidatoArea();
+    // setupForgotPasswordModal();
     inicializarFiltrado(filas);
     inicializarFiltradoTRAGSATEC(filas_tragsatec);
 
