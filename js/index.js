@@ -65,7 +65,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -77,7 +78,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -89,7 +91,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -101,7 +104,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -113,7 +117,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -125,7 +130,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -137,7 +143,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -149,7 +156,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -161,7 +169,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -173,7 +182,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -185,7 +195,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -197,7 +208,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -209,7 +221,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -221,7 +234,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         },
         {
             PUESTO: "ADMINISTRATIVO",
@@ -233,7 +247,8 @@ function carga() {
             UBICACION: "MADRID",
             ANEXOESP: "assets/img/pdf-icon.svg",
             DRE: "assets/img/pdf-icon.svg",
-            DRADRF: "assets/img/pdf-icon.svg"
+            DRADRF: "assets/img/pdf-icon.svg",
+            INSCRIPCION: "INSCRIBETE AQUI"
         }
     ];
     
@@ -362,11 +377,13 @@ function rellenarTablaTRAGSATEC(filas) {
                 
                 
                 if (key === 'ANEXOESP') {
-                    href = 'https://grupotragsa.people-experts.com/files/docs/anexos/1/ANEXO%20ESPECIFICO%20TRAGSA%20%20-%20Bloque%20136.pdf';
+                    href = 'https://adeccoagenciatragsa.iformalia.es/publico/portal/htmls/adeccotragsa/assets/pdf/ANEXO%20ESPECIFICO%20TRAGSA%20%20-%20Bloque%203.pdf';
                 } else if (key === 'DRE') {
-                    href = 'https://grupotragsa.people-experts.com/files/docs/dre/1/DRE%20-%20TRAGSA%20%20-%20Bloque%201.xlsx';
+                    href = 'https://adeccoagenciatragsa.iformalia.es/publico/portal/htmls/adeccotragsa/assets/xlsx/DRE%20-%20TRAGSA%20%20-%20Bloque%203.xlsx';
                 } else if (key === 'DRADRF') {
-                    href = 'https://grupotragsa.people-experts.com/files/docs/draydrf/1/DRA%20y%20DRF%20-%20DECLARACI%C3%93N%20RESPONSABLE%20A%20EFECTOS%20DE%20ADMISI%C3%93N%20AL%20PROCESO%20SELECTIVO%20Y%20DECLARACI%C3%93N%20RESPONSABLE%20DE%20LA%20FORMACI%C3%93N%20A%20EFECTOS%20DE%20VALORACI%C3%93N%20DE%20M%C3%89RITOS.xlsx';
+                    href = 'https://adeccoagenciatragsa.iformalia.es/publico/portal/htmls/adeccotragsa/assets/xlsx/DRF_DRA.xlsx';
+                } else if (key === 'INSCRIPCION') {
+                    href = 'https://adeccoagenciatragsa.iformalia.es/tragsa/inscripcionoferta?idg=OiXomeMW4JI=&return=no&returnurl=&obl_a2=S';
                 }
 
                 if (href) {
